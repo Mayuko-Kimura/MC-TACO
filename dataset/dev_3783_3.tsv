@@ -1,0 +1,758 @@
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	Does Frank's mom still work at the toll booth?	"yes, because she will sometimes work there"	no	Stationarity
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	Does Frank's mom still work at the toll booth?	she worked as a consultant	no	Stationarity
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	for weeks	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	18 days	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	15 years	yes	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	5 seconds	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	twenty hours	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	5 hours	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	5 years	yes	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	2 centuries	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	2 days	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	for years	yes	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	just the last few days	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	6 days	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	just the last few minutes	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	twenty weeks	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	twenty seconds	no	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How long has Frank's father been an alcoholic?	twenty years	yes	Event Duration
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	Will Frank become an alcoholic after growing up with an alcoholic father?	yes	yes	Event Ordering
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	everyday	yes	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	once a year	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	every day	yes	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	once a second	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	once a minute	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	once a century	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	daily	yes	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	once a week	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	every century	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	every month	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	once a month	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	every night	yes	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	How often does Frank's father drink?	every minute	no	Frequency
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	when his father was 21	yes	Typical Time
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	90 years ago	no	Typical Time
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	yesterday	no	Typical Time
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	10 hours ago	no	Typical Time
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	10 seconds ago	no	Typical Time
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	when his father was 7	no	Typical Time
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	2001	yes	Typical Time
+She explained that Frank 's father was an alcoholic and that his mother worked as a toll booth operator .	When did Frank's father become an alcoholic?	30 years ago	yes	Typical Time
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every 10 weeks	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every four seconds	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every 100 years	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every four hours	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every 100 hours	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	when someone steps down or gets fired	yes	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every day	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every 10 seconds	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every month	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every four weeks	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every minute	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How often are chief executives typically replaced?	every 10 hours	no	Frequency
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	about one month	yes	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 3 minutes	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 9 months	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 3 months	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 18 weeks	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 3 centuries	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	3 year	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	about one minute	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 2 seconds	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 2 weeks	yes	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	1 year	no	Event Duration
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons."	How long does it take for the successor to officially take James A. Taylor's position?	it will take 27 months	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	30 centuries	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	5 centuries	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	30 months	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	several days	yes	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	a few centuries	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	2 years	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	3.33 minutes	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	5 minutes	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	1.67 minutes	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	2 weeks	yes	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	10 minutes	no	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How long does it take for her to meet with the stranger?	a few days	yes	Event Duration
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What happens after she agrees to meet with the stranger?	they become friends	yes	Event Ordering
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What happens after she agrees to meet with the stranger?	they have a pleasant conversation	yes	Event Ordering
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What happens after she agrees to meet with the stranger?	she hit it off with the stranger	yes	Event Ordering
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	every century	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	every day	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	once night	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	once month	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	once century	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	every minute	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	they managed to stir their fans only once	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	every month	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	How often did she meet with the stranger?	every night	no	Frequency
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	3:00 AM	no	Typical Time
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	6:00 AM	no	Typical Time
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	12:00 AM	no	Typical Time
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	5:00 PM	yes	Typical Time
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	2:00 PM	yes	Typical Time
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	4:00 AM	no	Typical Time
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	6:00 PM	yes	Typical Time
+Lucrezia is an honorable woman and does not at first agree to meet with the stranger .	What time did she meet with the stranger?	5:00 AM	no	Typical Time
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed being under the sun for 8 seconds	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed 25 seconds under the sun	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed 2 years under the sun	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed 25 weeks under the sun	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed 25 years under the sun	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed 2 weeks under the sun	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed being under the sun for 2 hours	yes	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed 25 hours under the sun	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	for an hour	yes	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed 2 hours under the sun	yes	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed being under the sun for 18 hours	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed being under the sun for 8 years	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	How long did they enjoy under the sun?	they enjoyed being under the sun for 2 seconds	no	Event Duration
+Then they laid down on some towels and enjoyed the sun.	What did  they do after enjoying the sun?	slept	yes	Event Ordering
+Then they laid down on some towels and enjoyed the sun.	What did  they do after enjoying the sun?	ms. bogart laid her cards on the table	no	Event Ordering
+Then they laid down on some towels and enjoyed the sun.	What did  they do after enjoying the sun?	they went home	yes	Event Ordering
+Then they laid down on some towels and enjoyed the sun.	What did  they do after enjoying the sun?	got sunburn	yes	Event Ordering
+Then they laid down on some towels and enjoyed the sun.	What did  they do after enjoying the sun?	they sold a home	no	Event Ordering
+Then they laid down on some towels and enjoyed the sun.	What did  they do after enjoying the sun?	they retrieve some appliances on the second floor	no	Event Ordering
+Then they laid down on some towels and enjoyed the sun.	What did  they do after enjoying the sun?	ate some lunch	yes	Event Ordering
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	every century	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	several times a minute	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	several times a century	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	every minute	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	once a second	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	once a hour	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	never	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	always	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	How often do they lay down and enjoy the sun?	every night	no	Frequency
+Then they laid down on some towels and enjoyed the sun.	At what time did they lay down on the towels?	afternoon	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	5000 times	no	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	every day	yes	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	2 times	yes	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	10 times	yes	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	every minute	no	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	every century	no	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	0.4 times	no	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	ten times	yes	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	5 times	yes	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	30 times	yes	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How often has Number 13 watched Seki?	3000 times	no	Frequency
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	8:00 PM	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	2:00 AM	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	from 9am to 7 pm	no	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	from 9am to 5 pm	no	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	10:00 PM	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	from 9am to 5 am	no	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	one minute ago	no	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	5:00 PM	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	9:00 PM	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	8:00 AM	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	2:00 PM	yes	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	At what time of day was Seki killed?	from 9am to 4 pm	no	Typical Time
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How long was Seki being watched by Number 13?	seki was being watched by number thirteen for an hour	yes	Event Duration
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	How long was Seki being watched by Number 13?	seki was being watched by number 13 for an hour	yes	Event Duration
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	Has Number 13 always watched Seki?	he does this	no	Stationarity
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	Has Number 13 always watched Seki?	no he not did that minute	no	Stationarity
+"During this incident , Seki does n't realize he's being watched by Number 13 , but as soon as he does , Number 13 kills him ."	Has Number 13 always watched Seki?	no he just did that century	no	Stationarity
+"If he wanted to , he could confront him , but he lacks the audacity to do so ."	How often does he consider confronting people?	he considers confronting people every millisecond of his life	no	Frequency
+"If he wanted to , he could confront him , but he lacks the audacity to do so ."	How often does he consider confronting people?	every hour	no	Frequency
+"If he wanted to , he could confront him , but he lacks the audacity to do so ."	How often does he consider confronting people?	he considers confronting people each millisecond of his life	no	Frequency
+"If he wanted to , he could confront him , but he lacks the audacity to do so ."	How often does he consider confronting people?	he thinks confronting people every millisecond of his life	no	Frequency
+"If he wanted to , he could confront him , but he lacks the audacity to do so ."	How often does he consider confronting people?	each time he feels slighted	yes	Frequency
+"If he wanted to , he could confront him , but he lacks the audacity to do so ."	How often does he consider confronting people?	every minute	no	Frequency
+"If he wanted to , he could confront him , but he lacks the audacity to do so ."	How often does he consider confronting people?	he considers confronting people every few minutes	no	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How long did it take them to come?	they came quickly after being seen at the middle point	no	Event Duration
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How long did it take them to come?	a year	no	Event Duration
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How long did it take them to come?	10 months	no	Event Duration
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	Will they still be coming for the rest of eternity?	no	yes	Stationarity
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How often did they come?	once a minute	no	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How often did they come?	once a month	yes	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How often did they come?	every week	yes	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How often did they come?	every hour	no	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How often did they come?	every second	no	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How often did they come?	once a hour	no	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	How often did they come?	once a second	no	Frequency
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	What time of day was it?	4:00 PM	yes	Typical Time
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	What time of day was it?	3:00 PM	yes	Typical Time
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	What time of day was it?	1:00 PM	yes	Typical Time
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	What time of day was it?	5:00 PM	yes	Typical Time
+"Hitherward they came, Meeting our faces from the middle point, With us beyond but with a larger stride."	What time of day was it?	12:00 PM	yes	Typical Time
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	once a week	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	once a hour	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	once a second	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	once a year	yes	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	every hour	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	once per week	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	every second	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	each week	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	once every year	yes	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	every week	no	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	"How often do Pompey, Julius Caesar, and Augustus visit the tomb?"	just once	yes	Frequency
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	0.5 hour	no	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	about five days	yes	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	about five minutes	no	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	1 week	yes	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	about an hour	no	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	3 week	yes	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	1 hours	no	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	3 hours	no	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	How long did it take to visit the tomb?	3 seconds	no	Event Duration
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	Was the nose still knocked off the next day?	yes	yes	Stationarity
+"Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off."	Was the nose still knocked off the next day?	no	no	Stationarity
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	What did John do after opening the letter?	took it away	no	Event Ordering
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	What did John do after opening the letter?	he read it	yes	Event Ordering
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	What did John do after opening the letter?	he threw it away before writing it	no	Event Ordering
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	What did John do after opening the letter?	they read it	no	Event Ordering
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	What did John do after opening the letter?	he reads it	yes	Event Ordering
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	the gop finds its candidates on the defensive	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	2 minutes	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	it took john 90 minutes to read the word breathe	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	it took john 15 minutes to read the word breathe	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	it took john 30 minutes to read the word breathe	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	word of it reach many second-level officials	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	it took john 30 minutes to reading the word breathe	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	it took john 6 minutes to read the word breathe	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	one second	yes	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	now this word	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	2 seconds	yes	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"How long it take John to read the word ""breathe""?"	it took john 2 minutes to read the word breathe	no	Event Duration
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"Was John still reading the word ""breathe"" the next week?"	yes	no	Stationarity
+"John finds a letter addressed to him , with the word `` Breathe '' written on it ."	"Was John still reading the word ""breathe"" the next week?"	no	yes	Stationarity
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	What happened after the Albanians appeared in the Byzantine records?	they built up a unique civilization	yes	Event Ordering
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	about 1000 hours	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	a day	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	the first eight minutes	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	eight hundred seconds	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	the first eight months	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	a night	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	about 800 hours	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	For how long did the Byzantines log historical records?	a minute	no	Event Duration
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	every century	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	every minute	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	every few hundred weeks	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	it happened every few seconds	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	every few hundred hours	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	the past few decades	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	every few hundred seconds	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	every day	no	Frequency
+The Albanians first appear in the historical record in Byzantine sources of the late 11th century.	How often did the Byzantine empire document new cultural groups?	every night	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	every other morning	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	every minute	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	once a hour	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	every other night	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	each other day	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	on monday	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	every other minute	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	every other day	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	once a second	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	on tuesday	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How often will they make the journey?	on sunday	no	Frequency
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	8:00 PM	no	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	7:00 AM	yes	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	2:00 AM	no	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	9:00 PM	no	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	2:00 PM	yes	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	1:00 AM	no	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	11:00 AM	yes	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What time did they begin the journey?	8:00 AM	yes	Typical Time
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What will the ad men do after making the journey?	shoot a advertisement	yes	Event Ordering
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What will the ad men do after making the journey?	film a commercial	yes	Event Ordering
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	What will the ad men do after making the journey?	shoot a commercial	yes	Event Ordering
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How long is the motorcycle journey?	2 week	yes	Event Duration
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How long is the motorcycle journey?	5 minutes	no	Event Duration
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How long is the motorcycle journey?	9 days	yes	Event Duration
+Farragut convinces the ad men to make the motorcycle journey on the pretext of looking for a location to shoot a commercial .	How long is the motorcycle journey?	3 days	yes	Event Duration
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	one a second	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	each few seconds	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	twice a year	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	two to third times in their lifetimes	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	one a year	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	every few seconds	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	once every hour	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	every few hours	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	each few years	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	once a night	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	once per hour	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	two to three times during their lifetimes	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	once a year	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	just once	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	one a week	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	once every year	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	two to four times in their lifetimes	yes	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	once a minute	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	How often do Oklahomans need lawyers?	once per day	no	Frequency
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	they know what fruit is	no	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	they offer legal services	yes	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	you take a nap	no	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	they take a nap	no	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	they explain what fruit is	no	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	they offer law services	yes	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	they come home	no	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	his audience sees a new perspective	yes	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	their audience shows a new perspective	no	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	What happens after they explain why older Oklahomans need lawyers?	they say what fruit is	no	Event Ordering
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	Did Oklahomans need lawyers when they were younger?	yes	yes	Stationarity
+It's just this hard when I try to answer the question: Why do older Oklahomans need lawyers?	Did Oklahomans need lawyers when they were younger?	no	no	Stationarity
+Tumble would see Billy and walk up to him as fast as a turtle can go.	What time did the turtle see Billy?	1:00 PM	yes	Typical Time
+Tumble would see Billy and walk up to him as fast as a turtle can go.	What time did the turtle see Billy?	about 12 am	no	Typical Time
+Tumble would see Billy and walk up to him as fast as a turtle can go.	What time did the turtle see Billy?	4:00 PM	yes	Typical Time
+Tumble would see Billy and walk up to him as fast as a turtle can go.	What time did the turtle see Billy?	2:00 AM	no	Typical Time
+Tumble would see Billy and walk up to him as fast as a turtle can go.	What time did the turtle see Billy?	around 6 pm	yes	Typical Time
+Tumble would see Billy and walk up to him as fast as a turtle can go.	What time did the turtle see Billy?	3:00 PM	yes	Typical Time
+He them imprisons the royal family in his prison .	How long was the Royal family imprisoned?	300 years	no	Event Duration
+He them imprisons the royal family in his prison .	How long was the Royal family imprisoned?	10 weeks	yes	Event Duration
+He them imprisons the royal family in his prison .	How long was the Royal family imprisoned?	2 seconds	no	Event Duration
+He them imprisons the royal family in his prison .	How long was the Royal family imprisoned?	5 hours	no	Event Duration
+He them imprisons the royal family in his prison .	How long was the Royal family imprisoned?	100 years	no	Event Duration
+He them imprisons the royal family in his prison .	How long was the Royal family imprisoned?	0.67 hours	no	Event Duration
+He them imprisons the royal family in his prison .	How long was the Royal family imprisoned?	900 years	no	Event Duration
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	people believe in them	no	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	there was a riot	yes	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	rioting	yes	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	celebrations	yes	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	he and his family doing odd jobs	no	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	he rejoined his family	no	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	everyone died	no	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	people rejoiced	yes	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	he and his family repairing bicycles	no	Event Ordering
+He them imprisons the royal family in his prison .	What happened after word spread of the royal family being imprisoned?	he and his family selling fruit	no	Event Ordering
+He them imprisons the royal family in his prison .	How many times was the royal family in prison?	everyday	no	Frequency
+He them imprisons the royal family in his prison .	How many times was the royal family in prison?	2400 times	no	Frequency
+He them imprisons the royal family in his prison .	How many times was the royal family in prison?	once	yes	Frequency
+He them imprisons the royal family in his prison .	How many times was the royal family in prison?	800 times	no	Frequency
+He them imprisons the royal family in his prison .	How many times was the royal family in prison?	7200 times	no	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	every hour	no	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	every year	yes	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	every second	no	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	several times a second	no	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	once a century	no	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	once every year	yes	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	once per year	yes	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	each year	yes	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	once a night	no	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	How often do they study the DNA of extinct organisms?	once a year	yes	Frequency
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	in the 2nd century ad	no	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	1000 seconds ago	no	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	in the 2nd month ad	no	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	in the 2nd minute ad	no	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	during the 1970s	yes	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	1000 weeks ago	no	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	in the 1st century ad	no	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	50 years ago	yes	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	1000 years ago	no	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	When did they begin studying the DNA?	in the 1970s	yes	Typical Time
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	one day	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	six minutes	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	every day	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	a minute	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	one week	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	three years	yes	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	a century	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	a day	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	How long did it take to study the DNA?	a night	no	Event Duration
+They are able to study the DNA of the organism that no longer lives on Earth.	Are they still studying the DNA?	yes	yes	Stationarity
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	once every few months	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	clinton visited pakistan once a month	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	each week	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	every month	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	once every few hours	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	once every few seconds	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	every week	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	clinton visits pakistan once a month	no	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How often does Clinton visit Pakistan?	once every few years	yes	Frequency
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	When did Clinton arrive in Pakistan?	when his was born	no	Typical Time
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	When did Clinton arrive in Pakistan?	90 years ago	no	Typical Time
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	When did Clinton arrive in Pakistan?	150 years ago	no	Typical Time
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	When did Clinton arrive in Pakistan?	100 years ago	no	Typical Time
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	When did Clinton arrive in Pakistan?	when he was born	no	Typical Time
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	When did Clinton arrive in Pakistan?	30 seconds ago	no	Typical Time
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	When did Clinton arrive in Pakistan?	60 years ago	no	Typical Time
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	12 seconds	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	every day	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	a minute	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	one month	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	12 weeks	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	a century	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	one hour	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	6 hours	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	one week	yes	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	a week	yes	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	one second	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	2.4 hours	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	How long was President Clinton's trip?	one year	no	Event Duration
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	Was Clinton still in South Asia after the trip?	yes	no	Stationarity
+But President Clinton insisted on including Pakistan in the itinerary for his trip to South Asia.	Was Clinton still in South Asia after the trip?	no	yes	Stationarity
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	5 weeks	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	10 years	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	30 seconds	yes	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	10 weeks	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	0.22 years	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	a few years	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	45 seconds	yes	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	10 seconds	yes	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	a few seconds	yes	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	90 seconds	yes	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	5 years	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	2 years	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	6 years	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	2 weeks	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	1 minute	yes	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	How long does it take for them to answer?	a few weeks	no	Event Duration
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	What happens after Billy answers in a loud voice?	he gets a response	yes	Event Ordering
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	What happens after Billy answers in a loud voice?	the teacher tells him to be quiet	yes	Event Ordering
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	What happens after Billy answers in a loud voice?	every decent man raises his voice	no	Event Ordering
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	What happens after Billy answers in a loud voice?	he gets scolded for yelling	yes	Event Ordering
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	What happens after Billy answers in a loud voice?	i expect it to be this quiet	no	Event Ordering
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	What happens after Billy answers in a loud voice?	he whispers	no	Event Ordering
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	What happens after Billy answers in a loud voice?	we keep him quiet	no	Event Ordering
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	Does Billy answer in a loud voice on Mondays?	bill answers in a loud voice every day of the hour	no	Stationarity
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	Does Billy answer in a loud voice on Mondays?	bill answers in a loud voice every night of the week	no	Stationarity
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	Does Billy answer in a loud voice on Mondays?	yes	yes	Stationarity
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	Does Billy answer in a loud voice on Mondays?	bill answers in a loud voice every minute of the week	no	Stationarity
+"On Fridays, Billy answers in a loud voice and Sally in a quiet voice."	Does Billy answer in a loud voice on Mondays?	bill takes a vow of silence and does not talk on mondays	no	Stationarity
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	between 70 and 90 weeks at least	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	between 70 and 810 years at least	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	3 centuries	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	between 70 and 90 years at least	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	9 months	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	30 years	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	10 years	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	between 70 and 90 seconds at least	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How long does it take to lure men to their downfall?	5 centuries	no	Event Duration
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	What happens after men are lured to their downfall?	a woman nominated her boss	no	Event Ordering
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	What happens after men are lured to their downfall?	they are eaten	no	Event Ordering
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	What happens after men are lured to their downfall?	they get their workers to be flexible	no	Event Ordering
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	What happens after men are lured to their downfall?	a woman misses her menstrual period	no	Event Ordering
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	What happens after men are lured to their downfall?	they succeed	no	Event Ordering
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	Is she sexually attractive today?	yes	yes	Stationarity
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How often were men lured?	every century	no	Frequency
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How often were men lured?	a few times a second	no	Frequency
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How often were men lured?	a few times a year	yes	Frequency
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How often were men lured?	every month	yes	Frequency
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	How often were men lured?	every second	no	Frequency
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	When did she lure them?	mornings	no	Typical Time
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	When did she lure them?	every time they looked at her	yes	Typical Time
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	When did she lure them?	once a century	no	Typical Time
+"It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness."	When did she lure them?	once a minute	no	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	What happened to the clothes?	they got dirty	yes	Stationarity
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	0.22 hours	no	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	2 seconds	no	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	30 centuries	no	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	1 second and 15 minutes	no	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	3 centuries	no	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	1 hour and 15 minutes	yes	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	9 year	no	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	2 hours	yes	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	How long did it take to do the laundry?	1 year	no	Event Duration
+"If I cannot carry my groceries or my laundry, how can I live?"	What happened after he did the laundry?	he folded it and put it away	yes	Event Ordering
+"If I cannot carry my groceries or my laundry, how can I live?"	What happened after he did the laundry?	he threw his laundry in the trash	no	Event Ordering
+"If I cannot carry my groceries or my laundry, how can I live?"	What happened after he did the laundry?	he put them away	yes	Event Ordering
+"If I cannot carry my groceries or my laundry, how can I live?"	What happened after he did the laundry?	he went to a party	no	Event Ordering
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	66.67	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	0.67	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	22.22	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	once	yes	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	18	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	27 times	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	200	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	1 times	yes	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	600	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	2	yes	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	0.22	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	81 times	no	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	How many times a week does he do the laundry?	twice	yes	Frequency
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	saturday	yes	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	today	yes	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	once a second	no	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	once a year	no	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	yesterday	yes	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	3 months ago	no	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	27 months ago	no	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	1 months ago	no	Typical Time
+"If I cannot carry my groceries or my laundry, how can I live?"	When did he do the laundry?	9 months ago	no	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How many times did President Clinton plead with Musharraf?	one thousand times	no	Frequency
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How many times did President Clinton plead with Musharraf?	one hundred times	no	Frequency
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	around 10 am	yes	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	at midnight	no	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	approximately 10 am	yes	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	at 2 p.m	yes	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	about 10 am	yes	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	2:00 AM	no	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	1:00 AM	no	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	10:00 AM	yes	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	2:00 PM	yes	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	What time did the meeting occur?	at dawn	no	Typical Time
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	2 days	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	one week	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	about ten centuries	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	3 years	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	15 hours	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	3 seconds	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	4 days	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	one second	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	3 days	no	Event Duration
+"President Clinton told us that when he pulled Musharraf aside for a brief, one-on-one meeting, he pleaded with the general for help regarding  Bin Laden."""	How long did the meeting last?	9 hours	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	30 minutes	yes	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	10 minutes	yes	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	27 hours	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	it took them 30 minutes	yes	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	20 days	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	30 days	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	it took them 10 minutes	yes	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	20 minutes	yes	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	5 hours	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	15 hours	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	3 years	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How long did it take for them to reach the dog pound?	20 months	no	Event Duration
+Her mommy took her to the dog pound so that she could choose one that she wanted.	What did they do after she chose the dog that she wanted?	they took it home	yes	Event Ordering
+Her mommy took her to the dog pound so that she could choose one that she wanted.	What did they do after she chose the dog that she wanted?	they went home	yes	Event Ordering
+Her mommy took her to the dog pound so that she could choose one that she wanted.	What did they do after she chose the dog that she wanted?	they went to a nearby pet store	yes	Event Ordering
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	three times a day	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	once in five seconds	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	once a second	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	once in five hours	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	once a hour	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	three times a night	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	50 times	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	How often do they visit the dog pound?	three times a century	no	Frequency
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	during the month	no	Typical Time
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	during the century	no	Typical Time
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	during the night	no	Typical Time
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	"they went to the dog pound 15 years ago, in may"	no	Typical Time
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	during the day	yes	Typical Time
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	at bedtime	no	Typical Time
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	"they went to the dog pound 45 years ago, in may"	no	Typical Time
+Her mommy took her to the dog pound so that she could choose one that she wanted.	When did they go to the dog pound ?	they went to the dog pound last saturday	yes	Typical Time
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	15 weeks	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	15 years	yes	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	5 seconds	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	100 seconds	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	30 weeks	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	10 years	yes	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	5 years	yes	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	100 years	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	2 weeks	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	11.11 years	yes	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	3.33 years	yes	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	100 weeks	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	1.67 years	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	135 years	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	30 seconds	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How long was the chief justice in standing?	100 hours	no	Event Duration
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	What happened after the award was named after the chief justice?	the chief justice felt honored	yes	Event Ordering
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	What happened after the award was named after the chief justice?	the award was collected	yes	Event Ordering
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	What happened after the award was named after the chief justice?	he was honored	yes	Event Ordering
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How often was an award named after the chief justice?	a new award comes out every hour	no	Frequency
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How often was an award named after the chief justice?	once	yes	Frequency
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How often was an award named after the chief justice?	one time	yes	Frequency
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How often was an award named after the chief justice?	a new award comes out every week	no	Frequency
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How often was an award named after the chief justice?	always	no	Frequency
+The award was named after the chief justice of the Indiana Supreme Court to honor his statewide vision on justice.	How often was an award named after the chief justice?	a new award comes out every second	no	Frequency
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	Does Malaquez still have his parcel?	he gave no further details	no	Stationarity
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	Does Malaquez still have his parcel?	it gave no more details	no	Stationarity
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	Does Malaquez still have his parcel?	no	yes	Stationarity
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	at 8 a.m	yes	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	9:00 PM	no	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	at 2 a.m	no	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	next year	no	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	at 6 a.m	no	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	1:00 AM	no	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	3:00 AM	no	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	3:00 PM	yes	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What time did Malaquez receive the parcel?	1:00 PM	yes	Typical Time
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How long was the greenmunk visible?	years	no	Event Duration
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How long was the greenmunk visible?	twenty months	no	Event Duration
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How long was the greenmunk visible?	twenty centuries	no	Event Duration
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How long was the greenmunk visible?	a century	no	Event Duration
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What happened after the reveal of the greenmunk?	the parcel was opened	yes	Event Ordering
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What happened after the reveal of the greenmunk?	n/a	no	Event Ordering
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What happened after the reveal of the greenmunk?	he went to church	no	Event Ordering
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	What happened after the reveal of the greenmunk?	not sure	no	Event Ordering
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How often is a greenmunk seen in a sheen of solid air?	very rarely	yes	Frequency
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How often is a greenmunk seen in a sheen of solid air?	usually every century	no	Frequency
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How often is a greenmunk seen in a sheen of solid air?	it is rare	yes	Frequency
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How often is a greenmunk seen in a sheen of solid air?	"greenmunks are rarely seen in a sheen of solid air, they are usually on the ground"	yes	Frequency
+The side of Malaquez's parcel gave way to reveal a greenmunk caught in a sheen of solid air.	How often is a greenmunk seen in a sheen of solid air?	"greenmunks live in sheens of solid air, by their nature"	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	ten seconds	no	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	900	no	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	100	no	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	mzoudi studies for 12 years abroad internationally	yes	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	ten years	yes	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	mzoudi studies for 4 years abroad internationally	yes	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	mzoudi only studied in 1995 during his travels	no	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	300	no	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	ten hours	no	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How many years did Mzoudi spend studying ?	36	no	Event Duration
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	ms. bogart studied	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	hamburg 14 months ago	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	mr. williams studied it	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	hamburg two weeks ago	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	studied	yes	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	hamburg 14 months	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	the panel studied the issues	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	hamburg two years ago	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	he got a job in hamburg	yes	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	hamburg three weeks ago	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	partied	no	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	he started working	yes	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	What did Mzoudi do after moving to Hamburg ?	he went back to school elsewhere	yes	Event Ordering
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Did Mzoudi still study after moving to Hamburg ?	"yes, he continued to study and became a professor"	yes	Stationarity
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Did Mzoudi still study after moving to Hamburg ?	we keep sales moving in the stores	no	Stationarity
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Did Mzoudi still study after moving to Hamburg ?	no fundamental factors moving these markets	no	Stationarity
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Did Mzoudi still study after moving to Hamburg ?	yes	yes	Stationarity
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Did Mzoudi still study after moving to Hamburg ?	hamburg three weeks ago	no	Stationarity
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Did Mzoudi still study after moving to Hamburg ?	he studied the dellums bill	no	Stationarity
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Did Mzoudi still study after moving to Hamburg ?	he changed his vote to yes	no	Stationarity
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every century	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every minute	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every few months	yes	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every few days	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every few seconds	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	always	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	never	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every few hours	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every day	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	How often does Mzoudi travel to other cities?	every night	no	Frequency
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Which year did Mzoudi study in Dortmund ?	1994	yes	Typical Time
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Which year did Mzoudi study in Dortmund ?	1996	no	Typical Time
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Which year did Mzoudi study in Dortmund ?	mzoudi studied in dortmund in 1990	yes	Typical Time
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Which year did Mzoudi study in Dortmund ?	mzoudi studied in dortmund in 1980	yes	Typical Time
+"Mzoudi studied in Dortmund, Bochum, and Muenster before moving to Hamburg in 1995."	Which year did Mzoudi study in Dortmund ?	1987	yes	Typical Time
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	What did Alexander II do before releasing his plan?	ripped up the plan	no	Event Ordering
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	What did Alexander II do before releasing his plan?	created a plan	yes	Event Ordering
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	How many times will the plan be spoken for the week it's released?	few times a minute	no	Frequency
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	How many times will the plan be spoken for the week it's released?	few times a century	no	Frequency
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	How many times will the plan be spoken for the week it's released?	few times a month	no	Frequency
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	How many times will the plan be spoken for the week it's released?	it will be spoken for 10 times at least	yes	Frequency
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	How many times will the plan be spoken for the week it's released?	900	no	Frequency
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	How many times will the plan be spoken for the week it's released?	few times a day	yes	Frequency
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	When did Alexander II create his plan?	in 5589	no	Typical Time
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	When did Alexander II create his plan?	the next century	no	Typical Time
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	When did Alexander II create his plan?	in 2014	no	Typical Time
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	When did Alexander II create his plan?	yesterday	no	Typical Time
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	When did Alexander II create his plan?	in 6042	no	Typical Time
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	When did Alexander II create his plan?	the next minute	no	Typical Time
+"In a matter of 48 hours, Alexander II planned to release his plan for the duma to the Russian people."	When did Alexander II create his plan?	a second later	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	11 p.m	yes	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	10:00 AM	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	10:30 AM	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	3:00 AM	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	5:00 AM	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	10 p.m	yes	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	5:00 PM	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	10:00 PM	yes	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	5 p.m	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	10:30 PM	yes	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	When did he go to bed?	3:00 PM	no	Typical Time
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	How much time did he spend having dinner?	half an hour	yes	Event Duration
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	How much time did he spend having dinner?	20 minutes	yes	Event Duration
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	How much time did he spend having dinner?	10 minutes	yes	Event Duration
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	How much time did he spend having dinner?	20 seconds	no	Event Duration
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	How much time did he spend having dinner?	15 minutes	yes	Event Duration
+"After dinner, he went to look for Max one last time before he had to take a bath and go to bed."	How much time did he spend having dinner?	30 minutes	yes	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	How long did it take for the animals to get at the plant's hidden nectar?	10 days	no	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	How long did it take for the animals to get at the plant's hidden nectar?	yearly	no	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	How long did it take for the animals to get at the plant's hidden nectar?	it could take 0.33 days to get at the nectar	no	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	How long did it take for the animals to get at the plant's hidden nectar?	it could take 3 centuries to get at the nectar	no	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	How long did it take for the animals to get at the plant's hidden nectar?	it could take several centuries to get at the nectar	no	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	How long did it take for the animals to get at the plant's hidden nectar?	a century	no	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	How long did it take for the animals to get at the plant's hidden nectar?	10 centuries	no	Event Duration
+Only certain animals were able to get at the plants hidden nectar.	What did the animals do after they got at the plant's hidden nectar?	eat the nectar	yes	Event Ordering
+Only certain animals were able to get at the plants hidden nectar.	What did the animals do after they got at the plant's hidden nectar?	drank it	yes	Event Ordering
+Only certain animals were able to get at the plants hidden nectar.	What did the animals do after they got at the plant's hidden nectar?	we do the same for animals	no	Event Ordering
+Only certain animals were able to get at the plants hidden nectar.	What did the animals do after they got at the plant's hidden nectar?	we need to do the same for animals	no	Event Ordering
+Only certain animals were able to get at the plants hidden nectar.	What did the animals do after they got at the plant's hidden nectar?	officials get quotes for certain reinsurance contracts	no	Event Ordering
+Only certain animals were able to get at the plants hidden nectar.	What did the animals do after they got at the plant's hidden nectar?	fought	no	Event Ordering
+Only certain animals were able to get at the plants hidden nectar.	What did the animals do after they got at the plant's hidden nectar?	the animals ate the nectar from the plant	yes	Event Ordering
+Only certain animals were able to get at the plants hidden nectar.	Does the plant always have nectar?	yes	yes	Stationarity
+Only certain animals were able to get at the plants hidden nectar.	When did the animals get to the plant's hidden nectar?	spring	yes	Typical Time
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	once in two seconds	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	every day	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	every hour	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	only twice a second now	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	once in two hours	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	he performs weekly on tv	yes	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	every minute	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	every week	yes	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	every second	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How often does he perform in TV shows?	every century	no	Frequency
+He then starred in a TV show Which was a failure both critically and commercially .	How long did he act in the TV show?	he acted for 135 years	no	Event Duration
+He then starred in a TV show Which was a failure both critically and commercially .	How long did he act in the TV show?	he acted for 1 hour	no	Event Duration
+He then starred in a TV show Which was a failure both critically and commercially .	How long did he act in the TV show?	135 years	no	Event Duration
+He then starred in a TV show Which was a failure both critically and commercially .	How long did he act in the TV show?	he acted for 1 year	yes	Event Duration
+He then starred in a TV show Which was a failure both critically and commercially .	What did he do after the TV show's failure?	he got three trucks and a backhoe	no	Event Ordering
+He then starred in a TV show Which was a failure both critically and commercially .	What did he do after the TV show's failure?	he quit the exchange	no	Event Ordering
+He then starred in a TV show Which was a failure both critically and commercially .	What did he do after the TV show's failure?	he got a job as a line cook	no	Event Ordering
+He then starred in a TV show Which was a failure both critically and commercially .	What did he do after the TV show's failure?	continued working on the tv show	no	Event Ordering
+He then starred in a TV show Which was a failure both critically and commercially .	What did he do after the TV show's failure?	he was able to get another job as an actor	yes	Event Ordering
+He then starred in a TV show Which was a failure both critically and commercially .	What did he do after the TV show's failure?	searched for a new job	yes	Event Ordering
+He then starred in a TV show Which was a failure both critically and commercially .	What did he do after the TV show's failure?	he got a great idea	no	Event Ordering
+He then starred in a TV show Which was a failure both critically and commercially .	Which year did the TV show in which he starred release?	1995	yes	Typical Time
+He then starred in a TV show Which was a failure both critically and commercially .	Which year did the TV show in which he starred release?	2017	yes	Typical Time
+He then starred in a TV show Which was a failure both critically and commercially .	Which year did the TV show in which he starred release?	2015	yes	Typical Time
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How often does Max see his doggy friend?	three times a second	no	Frequency
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How often does Max see his doggy friend?	once a second	no	Frequency
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How often does Max see his doggy friend?	once a year	no	Frequency
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How often does Max see his doggy friend?	three times a year	no	Frequency
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How often does Max see his doggy friend?	8 times a century	no	Frequency
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How much time does Max like to spend with his human?	all the time he can	yes	Event Duration
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How much time does Max like to spend with his human?	all of the time	yes	Event Duration
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How much time does Max like to spend with his human?	as much time as possible	yes	Event Duration
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	How much time does Max like to spend with his human?	never	no	Event Duration
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	When did Max meet up with his human and doggy friend?	90 years ago	no	Typical Time
+Max seemed to be happy to have his human by his side as well as a new doggy friend.	When did Max meet up with his human and doggy friend?	30 years ago	no	Typical Time
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	once a month	yes	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	once a week	yes	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	3 times a month	yes	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	daily	yes	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	3 times a week	yes	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	once a second	no	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	once a day	yes	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	3 times a century	no	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	once a century	no	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How often did Goode speak with Gorbachev?	it provided new technology for other company products	no	Frequency
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	one week	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	0.2 year	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	1 week	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	century	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	three hours	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	three weeks	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	0.5 week	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	centuries	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	How long did Gorbachev's campaign last?	hours	no	Event Duration
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost."	Is W. Mark Goode still the president of Micronyx?	yes	yes	Stationarity
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	every year	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	every night	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	every minute	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	about once a second at meetings	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	about once a week at meetings	yes	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	about once every week at meetings	yes	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	every second	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	low-income people own their own homes	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	all day	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	every century	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How often does Brewer talk about the legal system marketplace?	every hour	no	Frequency
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	he said it 's certainly not too low	no	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	1:00 PM	yes	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	2:00 PM	yes	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	5:00 AM	no	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	4:00 PM	yes	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	1:00 AM	no	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	3:00 AM	no	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	low-income people own their own homes	no	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	12:00 PM	yes	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	2:00 AM	no	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	When did Brewer talk?	6:00 AM	no	Typical Time
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	What did Brewer do after he spoke?	he did everything else	no	Event Ordering
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	What did Brewer do after he spoke?	he listened for a reply	yes	Event Ordering
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	What did Brewer do after he spoke?	he waited for a response	yes	Event Ordering
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	What did Brewer do after he spoke?	he listened for a response	yes	Event Ordering
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	1 hour	yes	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	1 year	no	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	3 day	no	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	15 minutes	yes	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	0.6 days	no	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	3 centuries	no	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	3 days	no	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	How long was Brewer talking?	9 days	no	Event Duration
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	Was Brewer still talking about the legal system marketplace an hour later?	motorola paying just a nominal fee	no	Stationarity
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	Was Brewer still talking about the legal system marketplace an hour later?	low-income people own their own homes	no	Stationarity
+"The legal system marketplace just doesn't serve low-income people too well, except in fee-generat-ing type cases, Brewer said."	Was Brewer still talking about the legal system marketplace an hour later?	another type harms other people	no	Stationarity

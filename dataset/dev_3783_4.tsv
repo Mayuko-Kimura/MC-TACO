@@ -1,0 +1,750 @@
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	every minute or two	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	once a second	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	once every minute	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	every day or two	yes	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	once a day	yes	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	once per minute	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	every century or two	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	once a minute	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	each day or two	yes	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	every month or two	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	How often does the animal collect from a single flower	once a year	no	Frequency
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	2:00 PM	yes	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	3:00 AM	no	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	10:00 AM	yes	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	5:00 AM	no	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	he declined to be specific	no	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	in the afternoon	yes	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	about noon	yes	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	What time of day do they collect pollen	8:00 AM	yes	Typical Time
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	9 hours	no	Event Duration
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	1.5 hours	no	Event Duration
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	we need to do the same for animals	no	Event Duration
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	the features carry 30 seconds of advertising	no	Event Duration
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	we do the same for animals	no	Event Duration
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	3 hours	no	Event Duration
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	about 30 seconds	yes	Event Duration
+These specific animals might be more likely to visit only flowers of the same species.	How long do they spend at each flower?	3 days	no	Event Duration
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How often does he make this argument?	once a week	yes	Frequency
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How often does he make this argument?	every day	yes	Frequency
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How often does he make this argument?	twice	no	Frequency
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How often does he make this argument?	once a minute	no	Frequency
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How often does he make this argument?	5 times a week	yes	Frequency
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How often does he make this argument?	once a day	yes	Frequency
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	the french revolutioin began in 1790	yes	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	20 years ago	no	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	the french revolutioin began in 1960	no	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	may 4th	no	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	may 1st	no	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	the french revolutioin started in 1790	yes	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	"may 5th, 1789"	yes	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	When did the French Revolution begin?	1989	no	Typical Time
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	What happened after King Louis XIV died?	reversion to an constitutional monarchy	no	Event Ordering
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	What happened after King Louis XIV died?	modernizing and centralizedizing the french state	yes	Event Ordering
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	What happened after King Louis XIV died?	modernizing and centralizing the french state	yes	Event Ordering
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	What happened after King Louis XIV died?	modernizing and centralizing the french republic	yes	Event Ordering
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How long did the French Revolution last?	1 hour	no	Event Duration
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How long did the French Revolution last?	2 centuries	no	Event Duration
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	How long did the French Revolution last?	60 years	no	Event Duration
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	Is the French state still being centralized?	maybe	no	Stationarity
+He argued that the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV.	Is the French state still being centralized?	no	yes	Stationarity
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	once a year	yes	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	annually	yes	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	every second	no	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	everyday	no	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	twice a second	no	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	every year	yes	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	once a second	no	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	once a hour	no	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	every hour	no	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	How often were the grants issued?	the three members of the court introduced themselves	no	Frequency
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	What happened after the grants were issued to the temples?	buddhism flourished in the region	yes	Event Ordering
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	What happened after the grants were issued to the temples?	the people rejoiced	yes	Event Ordering
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	What happened after the grants were issued to the temples?	the temples were thankful for their gift	yes	Event Ordering
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	What happened after the grants were issued to the temples?	the temples were destroyed	no	Event Ordering
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	100 years ago	yes	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	1900	yes	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	5700	no	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	100 hours ago	no	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	tomorrow	no	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	yesterday	no	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	100 seconds ago	no	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	17100	no	Typical Time
+Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy.	When were the grants introduced?	400 ad	no	Typical Time
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many cases a month does his father work on?	9	yes	Frequency
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many cases a month does his father work on?	5	yes	Frequency
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many cases a month does his father work on?	5000	no	Frequency
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many cases a month does his father work on?	1000	no	Frequency
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many cases a month does his father work on?	500	no	Frequency
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many cases a month does his father work on?	10	yes	Frequency
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many cases a month does his father work on?	200	no	Frequency
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	What did Atta do after being born?	become a lawyer	no	Event Ordering
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	What did Atta do after being born?	she leaves her house	no	Event Ordering
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	What did Atta do after being born?	she left her home	no	Event Ordering
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	What did Atta do after being born?	she left her house	no	Event Ordering
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	What did Atta do after being born?	became a lawyer	no	Event Ordering
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	What did Atta do after being born?	become a prosecutor	no	Event Ordering
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	atta lived with his parents for 20 hours	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	2 years	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	18 years	yes	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	atta never lived with his parents	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	atta lived with his parents for 4 years	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	atta lived with his parents for 20 years	yes	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	atta lived with his parents for 60 years	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	10 years	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	3.6 years	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	18 weeks	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	5 years	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	18 months	no	Event Duration
+"Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney."	How many years did Atta live with his parents?	90	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	12 years	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	for five seconds	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	5 centuries	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	36 hours	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	75 years	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	5 days	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	several years	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	for five weeks	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	25 years	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	several weeks	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How long did he try to please the persons who came to the store?	5 months	no	Event Duration
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	What did they do after picking small puppies?	they went home with their new puppies	yes	Event Ordering
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	What did they do after picking small puppies?	he tried to sell products to eastman kodak	no	Event Ordering
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	What did they do after picking small puppies?	he tried to block his opponent	no	Event Ordering
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	What did they do after picking small puppies?	went home	yes	Event Ordering
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	What did they do after picking small puppies?	they moved into the store	no	Event Ordering
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	What did they do after picking small puppies?	went to a baseball game	no	Event Ordering
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	What did they do after picking small puppies?	they went home	yes	Event Ordering
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	multiple times a century	no	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	several times a minute	no	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	several times a century	no	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	once a second	no	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	every second	no	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	multiple times a minute	no	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	several times a day	yes	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	How often do people come to the store ?	daily	yes	Frequency
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	2:00 AM	no	Typical Time
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	the store usually opens at 9 a.m. in the morning	yes	Typical Time
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	at 10 am	yes	Typical Time
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	at 10 pm	no	Typical Time
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	7:00 PM	no	Typical Time
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	the store usually opens at 3 a.m. in the morning	no	Typical Time
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	2:00 PM	no	Typical Time
+"He tried and tried to please every person who came to the store, but they all picked smaller puppies."	When does the store usually open?	the store usually opens at 3:30 a.m. at day	no	Typical Time
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	When did he get a law degree?	1983	no	Typical Time
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	When did he get a law degree?	1981	yes	Typical Time
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	When did he get a law degree?	1999	no	Typical Time
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	When did he get a law degree?	in 1981	yes	Typical Time
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every 18 years	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every day	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every 2 hours	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every thirty weeks	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every thirty hours	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every thirty seconds	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every night	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every thirty years	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every six hours	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every six weeks	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every month	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every six seconds	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every minute	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every century	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	How often are judges elected	every 2 weeks	no	Frequency
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	What happened after Decatur County?	he retired early	yes	Event Ordering
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	Was he always in law?	no	yes	Stationarity
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	Was he always in law?	"no, he wasn't"	yes	Stationarity
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	Was he always in law?	"yes, since birth"	no	Stationarity
+"After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year."	Was he always in law?	yes	no	Stationarity
+"In the first months of the new administration, questions concerning the Predator became more and more a central focus of dispute."	When was the Predator first talked about by the President?	2 minutes ago	no	Typical Time
+"In the first months of the new administration, questions concerning the Predator became more and more a central focus of dispute."	When was the Predator first talked about by the President?	april 5th 670	no	Typical Time
+"In the first months of the new administration, questions concerning the Predator became more and more a central focus of dispute."	When was the Predator first talked about by the President?	never	no	Typical Time
+"In the first months of the new administration, questions concerning the Predator became more and more a central focus of dispute."	When was the Predator first talked about by the President?	2 weeks ago	no	Typical Time
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every 10 years	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every day	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every 2 seconds	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every hour	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	each year	yes	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every 1.5 months	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every year	yes	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	once every 3 days	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	once every 3 minutes	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every 2 weeks	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	every week	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How often does she plant new seeds?	once every 1.5 months	no	Frequency
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	At what time of the day did she start getting everything ready?	10:00 AM	yes	Typical Time
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	At what time of the day did she start getting everything ready?	at midnight	no	Typical Time
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	At what time of the day did she start getting everything ready?	8:00 AM	yes	Typical Time
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	At what time of the day did she start getting everything ready?	11:00 AM	yes	Typical Time
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	At what time of the day did she start getting everything ready?	at 9 am	yes	Typical Time
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	What will she do after she plants the seedlings in her garden?	she will water your garden	no	Event Ordering
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	What will she do after she plants the seedlings in her garden?	water the plants	yes	Event Ordering
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	What will she do after she plants the seedlings in her garden?	water the flowers	yes	Event Ordering
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	What will she do after she plants the seedlings in her garden?	she will stand down	no	Event Ordering
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	What will she do after she plants the seedlings in her garden?	water the crops	yes	Event Ordering
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	What will she do after she plants the seedlings in her garden?	she put her foot down	no	Event Ordering
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	How long did it take for to get everything ready?	20 seconds	no	Event Duration
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	Was she still planting the seeds at 3 PM?	yes	yes	Stationarity
+"When everything was ready, she removed the seedlings from their trays and planted them in her garden."	Was she still planting the seeds at 3 PM?	no	yes	Stationarity
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	every year	yes	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	each day	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	every night	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	each year	yes	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	every minute	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	each century	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	every sunday	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	this hour	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	about once per century	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	about once every century	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	about once per day	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	every late night	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	each saturday	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	How often does she recount her desire to be a doctor?	each night	no	Frequency
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	2 month ago	yes	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	10 hour ago	no	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	10 months ago	yes	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	2 years ago	yes	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	0.56 minutes ago	no	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	0.56 days ago	no	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	90 years ago	no	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	5 minutes ago	no	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	2 minute ago	no	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	When did she graduate college?	5 months ago	yes	Typical Time
+"When I was in college, I thought I wanted to be a doctor, she said."	What happened after she left college?	she changed to a life of crime	no	Event Ordering
+"When I was in college, I thought I wanted to be a doctor, she said."	What happened after she left college?	she turned to a life of crime	no	Event Ordering
+"When I was in college, I thought I wanted to be a doctor, she said."	What happened after she left college?	she became a teacher	yes	Event Ordering
+"When I was in college, I thought I wanted to be a doctor, she said."	What happened after she left college?	she went to a life of crime	no	Event Ordering
+"When I was in college, I thought I wanted to be a doctor, she said."	What happened after she left college?	she studied for her college classes	no	Event Ordering
+"When I was in college, I thought I wanted to be a doctor, she said."	What happened after she left college?	she said it 's worse than i thought	no	Event Ordering
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	90 minutes	no	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	10 years	no	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	four seconds	no	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	12 years	no	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	36 years	no	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	1.11 months	no	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	4 years	yes	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	10 minutes	no	Event Duration
+"When I was in college, I thought I wanted to be a doctor, she said."	How long was she in college?	four years	yes	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	5 times a day	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	someone know what their status is	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	every weekday morning	yes	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	once a hour	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	i like to know more about what happened	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	three times a week	yes	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	5 times every day	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	once a second	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	once a day	yes	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	some people know what to do	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	5 times a century	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How often does Deborah prepare the lettuce?	15 times a day	no	Frequency
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	it takes her 10 centuries	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	30 centuries	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	it takes her 22.5 minutes	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	0.6 hours	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	it takes her 45 hours	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	30 minutes	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	it takes her 50 minutes	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	it takes her 10 minutes	yes	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	1.5 hours	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	6 minutes	yes	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	ten minutes	yes	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	3 hours	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	two seconds	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	90 minutes	no	Event Duration
+Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life.	How long does it take Deborah to wash and prepare the lettuce?	it takes her 45 minutes	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	years	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	10 weeks	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	hundreds of years	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	hundreds of weeks	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	30 years	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	3 years	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	10 years	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	3.33 years	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	90 years	no	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How long did it take the shelter to get information?	10 hours	yes	Event Duration
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	What did the shelter do after receiving the information?	mr. quayle 's staff dispatch a helicopter	no	Event Ordering
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	What did the shelter do after receiving the information?	they had all the same risks	no	Event Ordering
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	What did the shelter do after receiving the information?	they offered aid	yes	Event Ordering
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	Was the hijack still in process when they received word?	some women have no trouble eventually conceiving again	no	Stationarity
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	three times a day	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	multiple times	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	three times a night	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	three times a minute	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	once a second	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	three times a month	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	once a hour	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	always	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	How often does the shelter have to concern themselves with hijackers.	once a week	no	Frequency
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	When did the shelter receive the information?	20 years ago	no	Typical Time
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	When did the shelter receive the information?	the shelter did not answer	no	Typical Time
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	When did the shelter receive the information?	1 hr ago	yes	Typical Time
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	When did the shelter receive the information?	180 years ago	no	Typical Time
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	When did the shelter receive the information?	3 hr ago	yes	Typical Time
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	When did the shelter receive the information?	2:00 PM	yes	Typical Time
+"Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter."	When did the shelter receive the information?	60 years ago	no	Typical Time
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	twice a month	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breathe every four hours	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	every 3 year	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	every 3 weeks	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breathe every ten weeks	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breaths each ten hours	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breaths every four years	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	every 3 centuries	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	each century	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	each 3 hours	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	every 3 days	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breath every four years	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breaths each four hours	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breath every ten weeks	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breath every ten years	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	twice a year	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	twice every day	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breath every ten hours	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How often do people need to take breaths?	people need to take breaths every ten weeks	no	Frequency
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	Does air enter the nose before it needs to be exhaled?	maybe	no	Event Ordering
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How long is the air in your lungs?	1 hour	no	Event Duration
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How long is the air in your lungs?	5 hours	no	Event Duration
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How long is the air in your lungs?	less than a minute	yes	Event Duration
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	How long is the air in your lungs?	5 days	no	Event Duration
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	If you take a breath will you have to continue breathing to live?	yes	yes	Stationarity
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	If you take a breath will you have to continue breathing to live?	no	no	Stationarity
+"When you inhale, air enters the respiratory system through your nose and ends up in your lungs, where gas exchange with the blood takes place."	If you take a breath will you have to continue breathing to live?	maybe	no	Stationarity
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	once	yes	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	5000 times	no	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	1000 times	no	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	twice	yes	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	2 times	yes	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	5 times	yes	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	3000 times	no	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	How many times did Billy have to reach down to blow on the hot oatmeal?	000 times	no	Frequency
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	tumble ate the oatmeal around 1am	no	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	tumble eaten the oatmeal at 1am	no	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	tumble ate his oatmeal at 1am	no	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	tumble consumed the oatmeal at 1am	no	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	tumble ate the oatmeal about 1am	no	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	tumble ate the oatmeal at 1am	no	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	one century ago	no	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	When did Tumble eat the oatmeal?	8:00 AM	yes	Typical Time
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	billy blew on the hot oatmeal for three days	no	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	10 seconds	yes	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	billy blew on the hot oatmeal for four months	no	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	30 minutes	no	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	one minute	yes	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	billy blew on the hot oatmeal for twenty-five minutes	no	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	thirty seconds	yes	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	10 centuries	no	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	billy blew on the hot oatmeal for twenty - five months	no	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	30 seconds	yes	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	For how long did Billy blow on the hot oatmeal?	billy blew on the hot oatmeal for three months	no	Event Duration
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	Was Billy still blowing on the oatmeal after it cooled down?	yes	no	Stationarity
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	Was Billy still blowing on the oatmeal after it cooled down?	maybe	no	Stationarity
+"Billy reached down and blew on the hot oatmeal, to cool it down for Tumble to eat."	Was Billy still blowing on the oatmeal after it cooled down?	no	yes	Stationarity
+"And as they waited for His coming, one generation after another, and yet He did not come, a sadness fell upon them."	How many times per day did they wait?	2 times	yes	Frequency
+"And as they waited for His coming, one generation after another, and yet He did not come, a sadness fell upon them."	How many times per day did they wait?	1 times	yes	Frequency
+"And as they waited for His coming, one generation after another, and yet He did not come, a sadness fell upon them."	For how many years did each generation wait?	50 seconds	no	Event Duration
+"And as they waited for His coming, one generation after another, and yet He did not come, a sadness fell upon them."	For how many years did each generation wait?	50 weeks	no	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	30 centuries	no	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	two centuries	no	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	90 minutes	yes	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	two seconds	no	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	90 seconds	no	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	8 hours	yes	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	30 seconds	no	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How long did the hearing last?	30 years	no	Event Duration
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	a dozen times per second	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	once a second	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	once every 90 years	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	once every 10 seconds	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	once every 30 years	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	a dozen times per hour	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	once every 10 years	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	How often does Judge Thornton issue rulings?	every few centuries	no	Frequency
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	When did the hearing begin?	1:00 AM	no	Typical Time
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	When did the hearing begin?	9:00 PM	no	Typical Time
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	When did the hearing begin?	10:00 PM	no	Typical Time
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	When did the hearing begin?	1:00 PM	yes	Typical Time
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	When did the hearing begin?	3:00 PM	yes	Typical Time
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	When did the hearing begin?	at 8am	yes	Typical Time
+"Ruling that the order was mutually binding, Judge Thornton also cited the men for contempt."	When did the hearing begin?	10:00 AM	yes	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	45 years	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	some days and some years	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	some days and some weeks	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	the disruption efforts lasted for several seconds	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	each of them lasted a few days	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	some days and some hours	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	they lasted for about a hour	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	15 years	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	5 seconds	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How long did the disruption efforts last?	each of them lasted a few minutes	no	Event Duration
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What will happen next?	disruption efforts will continue until it's broken down	yes	Event Ordering
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What will happen next?	you beat everyone around the world	no	Event Ordering
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What will happen next?	more terrorist attacks	yes	Event Ordering
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What will happen next?	the world will give up trying to influence this	no	Event Ordering
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What will happen next?	the organization destroyed villages	no	Event Ordering
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What will happen next?	bin laden dances	no	Event Ordering
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How often were disruption efforts made?	every century	no	Frequency
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How often were disruption efforts made?	some predicted more efforts to control costs ahead	no	Frequency
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	How often were disruption efforts made?	every minute	no	Frequency
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	8:00 AM	yes	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	3:00 AM	no	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	12:00 AM	no	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	1:00 AM	no	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	2:00 AM	no	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	2:00 PM	yes	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	3:00 PM	yes	Typical Time
+"Although disruption efforts around the world had achieved some successes, the core of  Bin Laden's organization remained intact."	What time of day did the organization have a meeting?	4:00 AM	no	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	1 hour	yes	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	34 years	no	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	two seconds a day	no	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	20 to 22 hours a day	no	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	20 to 22 seconds a day	no	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	two hours a day	yes	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	34 hours	no	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	two hours a century	no	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	few minutes to half an hour	yes	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How long do they play everyday?	102 hours	no	Event Duration
+"Other times, they play a game with Quack where they wave at Quack and laugh."	Do they still laugh after playing a game with Quack?	no	yes	Stationarity
+"Other times, they play a game with Quack where they wave at Quack and laugh."	Do they still laugh after playing a game with Quack?	yes	yes	Stationarity
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	few times a week	yes	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play every other day	yes	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	few times a hour	no	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	hourly	no	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play about once a week	yes	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play every other morning	yes	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play about once a hour	no	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play about once a year	no	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	few times a second	no	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play every other early morning	yes	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play about once a second	no	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	How often do they play a game with Quack ?	they play every other night	yes	Frequency
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	4:00 PM	yes	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	early evening	yes	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	weekends	yes	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	early morning	yes	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	2:00 PM	yes	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	early late night	no	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	12:00 PM	yes	Typical Time
+"Other times, they play a game with Quack where they wave at Quack and laugh."	When do they play games?	at 5 pm everyday	yes	Typical Time
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	in a hour	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	six centuries	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	in a second	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	a couple centuries	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	six minutes	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	at least six to eight months	yes	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	six days	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	a couple months	yes	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	six months	yes	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	a couple minutes	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	a couple seconds	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	a couple days	no	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	a couple of months	yes	Event Duration
+"At the same time, the Sudanese regime began to change."	How long did it take for differences to become apparent?	a couple hours	no	Event Duration
+"At the same time, the Sudanese regime began to change."	What transpired before the regime?	a group of city states	no	Event Ordering
+"At the same time, the Sudanese regime began to change."	What transpired before the regime?	current military regime	no	Event Ordering
+"At the same time, the Sudanese regime began to change."	What transpired before the regime?	civil unrest	yes	Event Ordering
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	after the sudanese regime began to change	no	Frequency
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	frequently	yes	Frequency
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	once a second	no	Frequency
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	very rarely	yes	Frequency
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	once a hour	no	Frequency
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	before the sudanese regime began to change	no	Frequency
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	daily	no	Frequency
+"At the same time, the Sudanese regime began to change."	How often did changes occur?	once a week	no	Frequency
+"At the same time, the Sudanese regime began to change."	When did the regime begin to change?	tomorrow	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work at 9:am	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work when 9 : am	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he begins work at 12 : am	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	10 p.m	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	9:00 AM	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work at 12:am	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts working at 12 : am	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts working at 4 : am	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he begins work at 9 : am	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	8 a.m	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work after 9 : am	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work around 12 : am	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts working at 9 : pm	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work at 9 : am	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work when 9 : pm	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	eight a . m	yes	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work when 12 : am	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What time of the day does he start work?	he starts work around 4 : am	no	Typical Time
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	got a nice supper	yes	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	had a nice dinner	yes	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	he buy a 45-acre horse farm	no	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	he celebrated	yes	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	mark retired	no	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	he dream of participating himself	no	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	got a nice dinner	yes	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	What did Mark do right after he found out that he became a judge?	got a good dinner	yes	Event Ordering
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	63 years	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	2.33 months	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	0.44	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	0.78 months	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	60	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	7 months	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	180	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	7 weeks	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	7 years	yes	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	it took mark ten seconds of working as a lawyer before he was appointed as a judge	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	7 seconds	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	How many years did it take for Mark to become a judge?	7 hours	no	Event Duration
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	Is Mark still on the farm now?	yes	no	Stationarity
+"Growing up on a farm near St. Paul, L. Mark Bailey didn't dream of becoming a judge."	Is Mark still on the farm now?	no	yes	Stationarity
+"A lot of poor people are not going to get served,'' she said."	Did the poor remain under-served after the new legislation?	yes they did	yes	Stationarity
+"A lot of poor people are not going to get served,'' she said."	Did the poor remain under-served after the new legislation?	yes	yes	Stationarity
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	1 hour	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	2 seconds	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	100 years	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	300 years	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	100 weeks	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	100 seconds	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	900 years	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	For how long did the poor remain under-served?	9 year	no	Event Duration
+"A lot of poor people are not going to get served,'' she said."	What happened after the poor went under-served?	they became upset	yes	Event Ordering
+"A lot of poor people are not going to get served,'' she said."	What happened after the poor went under-served?	they starved	yes	Event Ordering
+"A lot of poor people are not going to get served,'' she said."	What happened after the poor went under-served?	they became healthy	no	Event Ordering
+"A lot of poor people are not going to get served,'' she said."	What happened after the poor went under-served?	"a lot of people fooling', 'around"	no	Event Ordering
+"A lot of poor people are not going to get served,'' she said."	What happened after the poor went under-served?	a lot of people using something	no	Event Ordering
+"A lot of poor people are not going to get served,'' she said."	What happened after the poor went under-served?	they were happy	no	Event Ordering
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	many times each century	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	"never, they never serve the poor"	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	every day	yes	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	every minute	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	often	yes	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	"never, they sometimes serve the poor"	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	3 times an hour	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	every century	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	many times each minute	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	How often are the poor turned away for services?	27 times an hour	no	Frequency
+"A lot of poor people are not going to get served,'' she said."	When did the poor begin to lose services?	sometime yesterday	yes	Typical Time
+"A lot of poor people are not going to get served,'' she said."	When did the poor begin to lose services?	the poor began to lose services after she lost the funding	yes	Typical Time
+"A lot of poor people are not going to get served,'' she said."	When did the poor begin to lose services?	a few centuries ago	no	Typical Time
+"A lot of poor people are not going to get served,'' she said."	When did the poor begin to lose services?	after the new bill passed	yes	Typical Time
+"A lot of poor people are not going to get served,'' she said."	When did the poor begin to lose services?	a few days ago	yes	Typical Time
+"A lot of poor people are not going to get served,'' she said."	When did the poor begin to lose services?	a few months ago	yes	Typical Time
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	Do the Iban control the Sarawak's Coast now?	no	yes	Stationarity
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	Do the Iban control the Sarawak's Coast now?	yes they are still controlled by the iban	yes	Stationarity
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	Do the Iban control the Sarawak's Coast now?	yes	yes	Stationarity
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	What time of day did the Iban gain control?	5:00 PM	yes	Typical Time
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	What time of day did the Iban gain control?	11:00 AM	yes	Typical Time
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	What time of day did the Iban gain control?	day	no	Typical Time
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	900 times	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	600 years	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	300 times	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	once	yes	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	for a few seconds	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	200 years	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	1800 years	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	100 times	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How often had the Iban had control of the Sarawak's coast?	200 seconds	no	Frequency
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How long did it take for the Iban to take control of Sarawak's coast?	2 seconds	no	Event Duration
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How long did it take for the Iban to take control of Sarawak's coast?	a few seconds	no	Event Duration
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How long did it take for the Iban to take control of Sarawak's coast?	a second	no	Event Duration
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How long did it take for the Iban to take control of Sarawak's coast?	18 years	no	Event Duration
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How long did it take for the Iban to take control of Sarawak's coast?	a minute	no	Event Duration
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How long did it take for the Iban to take control of Sarawak's coast?	1 minute	no	Event Duration
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	How long did it take for the Iban to take control of Sarawak's coast?	1 century	no	Event Duration
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	What happened after the Iban gained control?	catfish farmers and haulers cheat on their taxes	no	Event Ordering
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	What happened after the Iban gained control?	chaos ensued	yes	Event Ordering
+Sarawak's coast and jungle interior were controlled by the Iban — Sea Dayak pirates and Land Dayak slash-and-burn farmers.	What happened after the Iban gained control?	they took over the lands	yes	Event Ordering
+The dermis also contains hair follicles and two types of glands.	How long does the dermis take to heal after a minor injury to it?	180 weeks	no	Event Duration
+The dermis also contains hair follicles and two types of glands.	How long does the dermis take to heal after a minor injury to it?	3 minutes	no	Event Duration
+The dermis also contains hair follicles and two types of glands.	How long does the dermis take to heal after a minor injury to it?	2 seconds	no	Event Duration
+The dermis also contains hair follicles and two types of glands.	How long does the dermis take to heal after a minor injury to it?	3 days	yes	Event Duration
+The dermis also contains hair follicles and two types of glands.	How long does the dermis take to heal after a minor injury to it?	3 centuries	no	Event Duration
+The dermis also contains hair follicles and two types of glands.	How long does the dermis take to heal after a minor injury to it?	20 years	no	Event Duration
+The dermis also contains hair follicles and two types of glands.	Can the dermis function after the hair follicles are dead or damaged?	no	yes	Event Ordering
+The dermis also contains hair follicles and two types of glands.	Can the dermis function after the hair follicles are dead or damaged?	yes	yes	Event Ordering
+The dermis also contains hair follicles and two types of glands.	Can the dermis function after the hair follicles are dead or damaged?	he says yes	no	Event Ordering
+The dermis also contains hair follicles and two types of glands.	Does the functioning of dermis slow down with age?	yes	yes	Stationarity
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	three times	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	the dermis regenerates every 7 years in as human	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	once	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	clairol makes hair and skin products	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	the dermis regenerates every 2.33 years in as human	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	the dermis regenerates every 0.78 years in as human	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	zero. the dermis does not regenarate	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	the dermis regenerates every 7 seconds in as human	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	the dermis regenerates every 21 years in as human	no	Frequency
+The dermis also contains hair follicles and two types of glands.	How many times in a human's life the dermis regenerate itself?	the section of dna contains the hemoglobin gene	no	Frequency
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	How often does the coastal trade take place in Melaka?	it ended back where islam was founded	no	Frequency
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	How often does the coastal trade take place in Melaka?	once every two centuries	no	Frequency
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	How often does the coastal trade take place in Melaka?	once every two month	no	Frequency
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	How often does the coastal trade take place in Melaka?	it ended back when islam was started	no	Frequency
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	How often does the coastal trade take place in Melaka?	every century	no	Frequency
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	they drank liquor	no	Event Ordering
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	it died off	no	Event Ordering
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	it expanded even further	yes	Event Ordering
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	other religious faiths were ostracized	yes	Event Ordering
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	it spread even further	yes	Event Ordering
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	they drank alcohol	no	Event Ordering
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	it died out	no	Event Ordering
+"In Melaka and throughout the peninsula, Islam thrived as a strong, male-dominated religion of individuality, offering dynamic leadership and preaching brotherhood and self-reliance — all qualities ideally suited to the coastal trade."	What happened after Islam became popular in the region?	it died down	no	Event Ordering
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	once every month	no	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	the bear rests once every four days	no	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	the bears rest every day for long periods of time	yes	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	once a month	no	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	once a day	yes	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	once every day	yes	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	once a minute	no	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	once a century	no	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	once a night	yes	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	How often does the bear rest?	the bear rests once every three days	no	Frequency
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	When did the girl see the bear?	the girl saw the bear on a tuesday afternoon	yes	Typical Time
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	When did the girl see the bear?	the girl spotted the bear on a tuesday afternoon	yes	Typical Time
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	When did the girl see the bear?	the girl saw the bear on a sunday afternoon	yes	Typical Time
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	When did the girl see the bear?	tomorrow	no	Typical Time
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	When did the girl see the bear?	over the last 5 minutes	no	Typical Time
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	What did the bear do later?	he woke up	yes	Event Ordering
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	What did the bear do later?	the bear took dinner	yes	Event Ordering
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	What did the bear do later?	the bear ate dinner	yes	Event Ordering
+"To both the girl and the dog's surprise, there was a small brown bear resting in the bushes."	What did the bear do later?	the bears ate dinner	yes	Event Ordering
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	5 minutes	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	0.56 hours	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	5 days	yes	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	several hours	yes	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	several years	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	3 year	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	9 year	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	1.67 minutes	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	5 hours	yes	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	0.56 minutes	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	5 years	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How long did it take the Assakenians to get to the fortress?	1 second	no	Event Duration
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	What did the Assakenians do next?	they talked of the aftermath	yes	Event Ordering
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	What did the Assakenians do next?	"the assakenians gathered forces, and planned their next advance"	yes	Event Ordering
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	What did the Assakenians do next?	they rested	yes	Event Ordering
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	Was the fortress built before the aftermath of Massaga and Ora?	they talked of the aftermath	no	Stationarity
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	Was the fortress built before the aftermath of Massaga and Ora?	yes	yes	Stationarity
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	Was the fortress built before the aftermath of Massaga and Ora?	the fortress had been built for some years before the aftermath	yes	Stationarity
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	Was the fortress built before the aftermath of Massaga and Ora?	the fortress had been built for some seconds before the aftermath	no	Stationarity
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	Was the fortress built before the aftermath of Massaga and Ora?	"the fortress was a tent city previously, and was built after the aftermath"	no	Stationarity
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	Was the fortress built before the aftermath of Massaga and Ora?	the fortress had been built for some hours before the aftermath	no	Stationarity
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	Was the fortress built before the aftermath of Massaga and Ora?	he fled to the countryside	no	Stationarity
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How often did the Assakenians flee?	once	yes	Frequency
+"In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos."	How often did the Assakenians flee?	just once	yes	Frequency
+Another way is when an animal or plant is brought to an area where it does not belong.	How often are plants brought to areas they don't belong?	almost every minute	no	Frequency
+Another way is when an animal or plant is brought to an area where it does not belong.	How often are plants brought to areas they don't belong?	every hour	no	Frequency
+Another way is when an animal or plant is brought to an area where it does not belong.	How often are plants brought to areas they don't belong?	every year	no	Frequency
+Another way is when an animal or plant is brought to an area where it does not belong.	How often are plants brought to areas they don't belong?	only once	no	Frequency
+Another way is when an animal or plant is brought to an area where it does not belong.	How often are plants brought to areas they don't belong?	almost every century	no	Frequency
+Another way is when an animal or plant is brought to an area where it does not belong.	How often are plants brought to areas they don't belong?	just once	no	Frequency
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	5 minute	no	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	9 years	yes	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	5 minutes	no	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	2.5 minutes	no	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	1 year	yes	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	1 hours	no	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	1 hour	no	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	3 year	yes	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	3 years	yes	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	1.5 years	yes	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	days	no	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	How long does it take for a plant to overtake a non-native area?	5 days	no	Event Duration
+Another way is when an animal or plant is brought to an area where it does not belong.	Are animals still being brought to places they aren't native to?	yes	yes	Stationarity
+Another way is when an animal or plant is brought to an area where it does not belong.	Are animals still being brought to places they aren't native to?	no	no	Stationarity
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	15 centuries	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	5 weeks	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	10 minutes	yes	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	10 months	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	15 months	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	20 minutes	yes	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	5 hours	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	15 minutes	yes	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	20 months	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	45 hours	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	20 centuries	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How long does the robbery take?	2 weeks	no	Event Duration
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	giants fans went  into euphoria	no	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	they got arrested	yes	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	he and two colleagues caught nothing	no	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	he returned the items he robbed	no	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	they fled	yes	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	they went into hiding	yes	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	the board decides to explore other alternatives	no	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	he decides to be modern	no	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	he was caught	yes	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What happened after they robbed the train?	he decides to be trendy	no	Event Ordering
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	Does Charlie still have the goods from the train?	the board decides	no	Stationarity
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	Does Charlie still have the goods from the train?	he decides to act	no	Stationarity
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	Does Charlie still have the goods from the train?	the board decides to explore other alternatives	no	Stationarity
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	Does Charlie still have the goods from the train?	yes	yes	Stationarity
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How many times has Charlie robbed a train?	180 times	no	Frequency
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How many times has Charlie robbed a train?	135 times	no	Frequency
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	How many times has Charlie robbed a train?	once	yes	Frequency
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	it occurred around noon	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	12:00 AM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	7:00 PM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	3:00 AM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	7:00 AM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	9:00 AM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	1:00 PM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	1:00 AM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	it occurred around midnight	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	12:00 PM	yes	Typical Time
+Charlie decides to rob the train with the help of imprisoned Don and con-artist Victor Braganza .	What time did the robbery occur?	4:00 AM	yes	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	How often does the judge scold someone in court?	once a century	no	Frequency
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	How often does the judge scold someone in court?	every day	yes	Frequency
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	How often does the judge scold someone in court?	once in his life	no	Frequency
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	8:00 PM	no	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	7:00 AM	yes	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	5:00 PM	no	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	11:00 PM	no	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	8:00 AM	yes	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	9:00 AM	yes	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	7:00 PM	no	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	10:00 PM	no	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	When did court start?	11:00 AM	yes	Typical Time
+"But Judge Thornton declared in court, ""When these orders are entered, you don't just do whatever you damn well please and ignore them."""	Was the judge still talking about this during the next case?	no	yes	Stationarity
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every day	yes	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every ten hours	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every month	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every ten seconds	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every third day	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every third month	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every third night	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every fourth day	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every morning	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every 3rd day	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every ten years	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	on a daily basis	yes	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every third minute	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How often do people conceal who they truly are?	every ten weeks	no	Frequency
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How long does one strive to become someone else?	for years	yes	Event Duration
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How long does one strive to become someone else?	1 minutes	no	Event Duration
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How long does one strive to become someone else?	5 centuries	no	Event Duration
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How long does one strive to become someone else?	their entire lives	yes	Event Duration
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How long does one strive to become someone else?	5 days	no	Event Duration
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	How long does one strive to become someone else?	for decades	yes	Event Duration
+"The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are."	Are people still striving to conceal who they are?	yes	yes	Stationarity
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	the campaign lasted almost all second	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	the campaign lasted for 5 centuries	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	6 days	yes	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	180 years	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	60 years	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	6 minutes	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	the campaign lasted for 5 days	yes	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	the campaign lasted almost all hour	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	20 seconds	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did the campaign last?	the campaign lasted for 5 minutes	no	Event Duration
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	What did he do after the rejection?	he began his career	no	Event Ordering
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	What did he do after the rejection?	he found a different career	yes	Event Ordering
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	What did he do after the rejection?	he was reinstated	no	Event Ordering
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 0.44 years	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 2 weeks	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 100 years	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 100 hours	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 33.33 years	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every month	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every night	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every four years	yes	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every four hours	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 900 years	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every day	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 4 weeks	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 4 years	yes	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How often are elections held?	every 4 seconds	no	Frequency
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did it take to count the votes	it only took a few minutes	yes	Typical Time
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did it take to count the votes	15 minutes	yes	Typical Time
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did it take to count the votes	15 months	no	Typical Time
+A majority of 65 votes in the 128-member body was required to reject his reinstatement.	How long did it take to count the votes	it took 2 centuries to count all the votes	no	Typical Time
