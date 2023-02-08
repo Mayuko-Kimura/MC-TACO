@@ -59,8 +59,8 @@ MC-TACOでの精度を計算するとき：
 
 多段階ファインチューニングをするとき：
 
-`sh experiments/bert/run_bert_baseline_multiple_choice.sh 
+`sh experiments/bert/run_bert_baseline_multiple_choice.sh`
 
-(sh experiments/bert/run_trim_model.sh)
+(`sh experiments/bert/run_trim_model.sh`)
 
-sh experiments/bert/run_bert_baseline.sh`
+`sh experiments/bert/run_bert_baseline.sh`
