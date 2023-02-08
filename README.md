@@ -41,10 +41,20 @@ BERTについてはMLMにおけるマスクの方法を工夫するコードも�
 
 ・trim_model.py, run_trim_model.sh：多段階ファインチューニングを行う際に、一段階目と二段階目でタスクの形式が異なる場合（CosmosQA, SWAGなど）のパラメータ調整用
 
+・run_lm_finetuning.py, run_lm_finetuning.sh：MC-TACOを用いたMLM（ランダムマスキング）
+
+・run_lm_finetuning_filter.py, run_lm_finetuning_filter.sh：MC-TACOを用いたMLM（何かしらの基準を設定し、基準を満たす単語を全てマスクする）
+
+・run_lm_finetuning_filter_both.py, run_lm_finetuning_filter_both.sh：MC-TACOを用いたMLM（何かしらの基準を設定し、基準を満たす単語の一部（多め）と基準を満たさない単語の一部（少なめ）をマスクする。基準を満たす単語を優先してマスクしたい場合）
+
 ### roberta/
+基本はbert/と同じ
+
+・run_lm_v3.py, run_lm_v3.sh：MC-TACOを用いたMLM（ランダムマスキング）
+
 
 ### albert/
-
+bert/、roberta/と同じ
 
 
 ## 主なコマンド
@@ -57,10 +67,12 @@ MC-TACOでの精度を計算するとき：
 
 `python evaluator/evaluator.py eval --test_file dataset/test_9442.tsv --prediction_file bert_output/eval_outputs.txt`
 
-多段階ファインチューニングをするとき：
+多段階ファインチューニングをするときの例：
 
 `sh experiments/bert/run_bert_baseline_multiple_choice.sh`
+（一段階目のファインチューニング）
 
 (`sh experiments/bert/run_trim_model.sh`)
 
 `sh experiments/bert/run_bert_baseline.sh`
+（二段階目のMC-TACOでのファインチューニング）
