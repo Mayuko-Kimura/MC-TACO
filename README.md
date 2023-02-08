@@ -6,7 +6,7 @@ MC-TACOで評価をする時に使用したコードです。
 
 ## dataset
 
-MC-TACOのデータセット
+MC-TACOのデータセットを置いてあります。
 
 ## evaluator
 
