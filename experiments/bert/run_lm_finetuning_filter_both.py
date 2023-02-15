@@ -323,11 +323,10 @@ def random_word(tokens, tokenizer, tfidf, pos_filter):
         prob = random.random()
         # mask token with 15% probability
         # print(prob, token, token in filtered_tokens)
-        masking = 0.45
-        prob1 = masking*7/10   #15%のとき0.105
-        prob2 = masking*3/10   #15%のとき0.045
+        #masking = 0.15
+        prob1 = 0.8   #15%のとき0.105
+        prob2 = 0.2   #15%のとき0.045
         
-        #filterに含まれるならmasking rateの7割マスク
         if token in filtered_tokens:
             if prob < prob1:
                 prob /= prob1
