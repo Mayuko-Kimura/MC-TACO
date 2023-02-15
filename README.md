@@ -43,7 +43,7 @@ BERTについてはMLMにおけるマスクの方法を工夫するコードも�
 
 ・run_lm_finetuning.py, run_lm_finetuning.sh：MC-TACOを用いたMLM（ランダムマスキング）
 
-・run_lm_finetuning_filter.py, run_lm_finetuning_filter.sh：MC-TACOを用いたMLM（何かしらの基準を設定し、基準を満たす単語を全てマスクする）
+・run_lm_finetuning_filter.py, run_lm_finetuning_filter.sh：MC-TACOを用いたMLM（何かしらの基準を設定し、基準を満たす単語の多くをマスクする（満たさない単語はマスクしない））
 
 ・run_lm_finetuning_filter_both.py, run_lm_finetuning_filter_both.sh：MC-TACOを用いたMLM（何かしらの基準を設定し、基準を満たす単語の一部（多め）と基準を満たさない単語の一部（少なめ）をマスクする。基準を満たす単語を優先してマスクしたい場合）
 
